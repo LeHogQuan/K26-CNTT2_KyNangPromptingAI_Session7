@@ -23,18 +23,26 @@ giải thích lại theo ý kiểu của mình cho AI nhận xét
 
 2. Xây dựng rubric (tiêu chí) để AI chấm điểm
    Thiết lập bảng tiêu chí chấm điểm dựa vào 4 tiêu chí
-   2.1 tính đúng đắn(40%)
-   + chương trình có gặp bug gì không
+
+    2.1 tính đúng đắn(40%)
+
+    + chương trình có gặp bug gì không
    + chương trình chạy được nhưng kết quả có bị sai hay không?
+   
    2.2 độ tối ưu thuật toán(30%)
+
    + Thuật toán chạy có nhanh hay không?
    + Thuật toán có tốn nhiều dung lượng hay không?
-   2.3 phong cách viết code(20%)
+
+    2.3 phong cách viết code(20%)
+
    + Đặt tên biến, hàm có dễ hiểu hay không?
    + Đặt tên biến, hàm có đúng theo quy tắc hay không?
    + Code có gọn gàng dễ đọc hơn không?
    + Đặt tên có chuyên nghiệp hay không?
-   2.4 xử lí ngoại lệ (10%)
+
+    2.4 xử lí ngoại lệ (10%)
+
    + danh sách không có phần tử thì sao?
    + danh sách có 1 phần tử thì sao?
    form đăng kí SĐT
